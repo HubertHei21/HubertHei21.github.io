@@ -6,7 +6,7 @@ category: Jekyll
 layout: post
 ---
 
-### 说明
+#### 说明
 
 > :warning:  不保证文章内容正确 :exclamation: \
 > :warning:  资料来源网络，侵删 :exclamation:
@@ -20,15 +20,15 @@ layout: post
 
 ---
 
-### 配置
+#### 配置
 
 [教程](https://www.bilibili.com/video/BV1Ki4y1E7NX?p=1)
 
-### 安装Ruby
+#### 安装Ruby
 
 [RubyInstaller](https://www.rubyinstaller.org/downloads/)
 
-### 安装Jekyll
+#### 安装Jekyll
 
 ```shell
 jekyll new myblog
@@ -38,11 +38,11 @@ jekyll serve
 bundle exec jekyll serve
 ```
 
-### 预览
+#### 预览
 
 <http://127.0.0.1:4000/>
 
-### Config
+#### Config
 
 ```yml
 title: HI Blogs  # 标题
@@ -60,11 +60,11 @@ plugins: #插件
   - jekyll-feed
 ```
 
-### 文件名
+#### 文件名
 
 yyyy-mm-dd-Title.md
 
-### Header
+#### Header
 
 ```md
 ---
@@ -76,7 +76,7 @@ permalink: /about/  #永久链接
 ---
 ```
 
-### 其他
+#### 其他
 
 > :link:
 > [jekyll-docs](https://jekyllrb.com/docs/home) \
